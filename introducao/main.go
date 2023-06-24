@@ -8,8 +8,9 @@
 // para ver na tela digite "go run nomeDoArquivo"
 // -------------------------------------------- //
 
-package main
+// package main
 
-func main()  {
-	println("hello word convencional!")
-}
+// func main()  {
+// 	println("hello word convencional!")
+// }
+// Para executar o "main" é so digitar "./main" no terminal
